@@ -1,0 +1,11 @@
+*{
+	font-size: 12px;
+	font-family: serif;
+}
+
+body{
+	width: 90%;
+	position: absolute;
+	margin-left: 5%;
+	padding: 1%;
+}
